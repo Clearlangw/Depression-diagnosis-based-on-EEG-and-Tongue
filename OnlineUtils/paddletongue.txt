@@ -1,0 +1,4 @@
+以下是我们舌象单模态处理所创立的paddle社区项目:
+Here is the paddle community project created by our unimodal processing of tongue images:
+https://aistudio.baidu.com/aistudio/projectdetail/5632371
+

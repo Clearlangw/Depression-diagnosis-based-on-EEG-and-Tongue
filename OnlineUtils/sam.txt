@@ -1,0 +1,3 @@
+Here are the online image segmentation tools we use:
+SAM: https://segment-anything.com/
+Grounded-Segment-Anything: https://github.com/IDEA-Research/Grounded-Segment-Anything
